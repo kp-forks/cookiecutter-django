@@ -3,6 +3,47 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## 2024.10.09
+
+
+### Updated
+
+- Update coverage to 7.6.2 ([#5448](https://github.com/cookiecutter/cookiecutter-django/pull/5448))
+
+## 2024.10.08
+
+
+### Changed
+
+- [pre-commit.ci] pre-commit autoupdate ([#5441](https://github.com/cookiecutter/cookiecutter-django/pull/5441))
+
+### Updated
+
+- Update pre-commit to 4.0.1 ([#5445](https://github.com/cookiecutter/cookiecutter-django/pull/5445))
+
+- Bump amazon/aws-cli from 2.18.0 to 2.18.1 in /{{cookiecutter.project_slug}}/compose/production/aws ([#5443](https://github.com/cookiecutter/cookiecutter-django/pull/5443))
+
+- Auto-update pre-commit hooks ([#5442](https://github.com/cookiecutter/cookiecutter-django/pull/5442))
+
+## 2024.10.07
+
+
+### Documentation
+
+- Docs: fix Mailgun include in troubleshooting sections ([#5439](https://github.com/cookiecutter/cookiecutter-django/pull/5439))
+
+### Updated
+
+- Update sphinx to 8.0.2 ([#5263](https://github.com/cookiecutter/cookiecutter-django/pull/5263))
+
+- Update pre-commit to 4.0.0 ([#5432](https://github.com/cookiecutter/cookiecutter-django/pull/5432))
+
+- Auto-update pre-commit hooks ([#5433](https://github.com/cookiecutter/cookiecutter-django/pull/5433))
+
+- Update sphinx-rtd-theme to 3.0.0 ([#5437](https://github.com/cookiecutter/cookiecutter-django/pull/5437))
+
+- Bump amazon/aws-cli from 2.17.0 to 2.18.0 in /{{cookiecutter.project_slug}}/compose/production/aws ([#5436](https://github.com/cookiecutter/cookiecutter-django/pull/5436))
+
 ## 2024.10.05
 
 
